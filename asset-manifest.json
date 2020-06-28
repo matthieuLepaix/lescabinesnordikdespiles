@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lescabinesnordikdespiles/static/css/main.a689ad72.chunk.css",
+    "main.js": "/lescabinesnordikdespiles/static/js/main.fc6da0a0.chunk.js",
+    "main.js.map": "/lescabinesnordikdespiles/static/js/main.fc6da0a0.chunk.js.map",
+    "runtime-main.js": "/lescabinesnordikdespiles/static/js/runtime-main.85f569dd.js",
+    "runtime-main.js.map": "/lescabinesnordikdespiles/static/js/runtime-main.85f569dd.js.map",
+    "static/js/2.c2c22a61.chunk.js": "/lescabinesnordikdespiles/static/js/2.c2c22a61.chunk.js",
+    "static/js/2.c2c22a61.chunk.js.map": "/lescabinesnordikdespiles/static/js/2.c2c22a61.chunk.js.map",
+    "index.html": "/lescabinesnordikdespiles/index.html",
+    "precache-manifest.7254c538fbe9ba700bde68c9848428c9.js": "/lescabinesnordikdespiles/precache-manifest.7254c538fbe9ba700bde68c9848428c9.js",
+    "service-worker.js": "/lescabinesnordikdespiles/service-worker.js",
+    "static/css/main.a689ad72.chunk.css.map": "/lescabinesnordikdespiles/static/css/main.a689ad72.chunk.css.map",
+    "static/js/2.c2c22a61.chunk.js.LICENSE.txt": "/lescabinesnordikdespiles/static/js/2.c2c22a61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85f569dd.js",
+    "static/js/2.c2c22a61.chunk.js",
+    "static/css/main.a689ad72.chunk.css",
+    "static/js/main.fc6da0a0.chunk.js"
+  ]
+}
